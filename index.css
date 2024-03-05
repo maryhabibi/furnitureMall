@@ -18,7 +18,7 @@ body {
     background-color: #ce8338;
     margin-top: 0px;
     padding-top: 0px;
-    background-image: url(../media/First.jpg);
+    background-image: url(./media/First.jpg);
     background-repeat: no-repeat;
     background-size: auto 170vh;
     background-position: 50% 90%;
@@ -192,7 +192,7 @@ margin-left: 20vh;
 #peleh{
     padding-top: 1vh;
     height: 130vh;
-    background-image: url(../media/hi.jpg);
+    background-image: url(./media/hi.jpg);
     background-repeat: no-repeat;
     background-size: auto 170vh;
     background-position: 50% 90%;
